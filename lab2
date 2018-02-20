@@ -1,0 +1,105 @@
+    1  wd
+    2  pwd
+    3  git --version
+    4  ls
+    5  ls -h
+    6  ls -a
+    7  cd ~
+    8  pwd
+    9  cd ..
+   10  pwd
+   11  ls -lh
+   12  ls
+   13  ls -a
+   14  pwd
+   15  ls
+   16  ls -a
+   17  cat a.txt
+   18  cat b.txt
+   19  cat c.txt
+   20  //
+   21  ls -a
+   22  git init
+   23  ls -a
+   24  ls
+   25  git status
+   26  git add
+   27  git config user.email zeinabali218@gmail.com
+   28  git config user.name zeinab
+   29  git config user.email "zeinabali218@gmail.com"
+   30  git config user.name "zeinab"
+   31  git add
+   32  git status
+   33  git status
+   34  git add .
+   35  git status
+   36  git commit -m "Commit msg"
+   37  git status
+   38  git commit -m "Commit"
+   39  git commit
+   40  git status
+   41  clear
+   42  git status
+   43  git status
+   44  git add .
+   45  git status
+   46  git commit -m 
+   47  git f
+   48  git diff
+   49  git status
+   50  git status
+   51  git diff
+   52  git diff
+   53  git status
+   54  git diff
+   55  git status
+   56  git diff
+   57  git add .
+   58  git commit -m "second commit msg"
+   59  git log
+   60  git diff 9179fd632e1f5ebf49e8fec4b4c3afbb2ff21d17 0c64e46046ed7c48a1404439bf892727ebb108e3
+   61  git status 
+   62  git diff 9179fd632e1f5ebf49e8fec4b4c3afbb2ff21d17 0c64e46046ed7c48a1404439bf892727ebb108e3
+   63  git status 
+   64  git add .
+   65  git commit -m "msg2"
+   66  git log
+   67  git diff 9179fd632e1f5ebf49e8fec4b4c3afbb2ff21d17 0c64e46046ed7c48a1404439bf892727ebb108e3  00acb310267950df818e1f11b071c0c182ad2dfb 
+   68  git log
+   69  git diff  9179fd632e1f5ebf49e8fec4b4c3afbb2ff21d17 0c64e46046ed7c48a1404439bf892727ebb108e3
+   70  history >> commands_lab1
+   71  git status 
+   72  git add
+   73  git add .
+   74  git status 
+   75  git status 
+   76  git commit 
+   77  git commit -m "msg2"
+   78  git status 
+   79  git add .
+   80  git status
+   81  git diff
+   82  git status
+   83  git f
+   84  git status
+   85  git commit -m "lab_2_firstCommit"
+   86  git status
+   87  gcc -version
+   88  gcc -v
+   89  gcc hello.c
+   90  gcc hello.c -o out
+   91  clear
+   92  git log
+   93  git status
+   94  git status
+   95  git status
+   96  git diff
+   97  git log
+   98  git diff  7ccac6a29dd361ed951547a96fcf017347cdae8d ef71d959b0d5057fd1823c6e65e09dd119a6631f
+   99  git branch
+  100  history >> lab2
+  
+  
+  
+  
+  branch ---> coping all commited files
